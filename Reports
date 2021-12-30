@@ -1,0 +1,7 @@
+Exploring the role of analytics in business. It aims to teach the basic principles involved in the applications of analytics to various aspects of business processes. The specific objectives are outlined below:
+1. Introduce basic applications of business analytics
+2. Discuss the ethical implications of business analytics and understand its limits
+3. Introduce methodologies and frameworks used in business analytics, including causal approaches
+4. Understand how to collect, process and quantify data
+5. Discuss the role of descriptive, predictive and prescriptive analytics
+Being software agnostic, the software package used for analysis will be in R.
